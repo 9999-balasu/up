@@ -1,0 +1,10 @@
+.Pagebutton{
+  display: inline-block;
+  padding: 5px;
+  border: 1px solid black;
+  cursor: pointer;
+  justify-content: space-evenly;
+  
+
+
+}
